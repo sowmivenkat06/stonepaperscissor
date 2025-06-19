@@ -12,7 +12,7 @@ A fun and interactive **Stone Paper Scissors** (also known as **Rock Paper Sciss
 
 ## 📸 Screenshot
 
-![Game Screenshot](./stone paper scissor.png) 
+![Game Screenshot](./stonepaperscissor.png) 
 
 ## 📁 Project Structure
 stone-paper-scissors/
